@@ -12,7 +12,7 @@ h1 {
 
 h2 {
     text-align: left;
-    margin: 16px;
+    margin: 32px;
     background-color: gold;
     font-weight: normal;
     font-size: 16px;
@@ -28,6 +28,7 @@ h2 {
 p {
     background-color: aliceblue;
     font-size: 16px;
+    margin: 16px;
     text-align: left;
     padding: 10px;
     padding-top: 10px;
@@ -65,7 +66,7 @@ table {
 }
 
 #bottom {
-  margin: 16px;
+  margin: 32px;
   clear: both;
   background-color: lawngreen;
   padding: 10px;
